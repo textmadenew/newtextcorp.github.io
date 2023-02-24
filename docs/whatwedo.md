@@ -10,7 +10,7 @@ The overwhelming desire among individuals, companies, and governments to hide th
 
 ## The Truth
 
-But what we have found and live by is that error, even when its propagators occupy the field of information, give something of the truth away. That is, the truth lurks even there. So much so that the determined, thoughtful, and smart human being can find it &emdash; especially when equipped with the right technology.
+But what we have found and live by is that error, even when its propagators occupy the field of information, give something of the truth away. That is, the truth lurks even there. So much so that the determined, thoughtful, and smart human being can find it &mdash; especially when equipped with the right technology.
 
 ## Methods
 
