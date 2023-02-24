@@ -5,11 +5,13 @@ theme:
   palette:
     # Palette toggle for dark mode
     - scheme: slate
+      accent: blue grey
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
     # Palette toggle for light mode
     - scheme: default
+      accent: blue grey
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
