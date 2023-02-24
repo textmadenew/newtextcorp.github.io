@@ -15,3 +15,18 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+  features:
+    - navigation.sections
+
+plugins:
+  - tags
+
+nav:
+  - index.md
+  - whatwedo.md
+
+  # - Section:
+  #   - section/index.md
+  #   - Page 1: section/page-1.md
+  #   ...
+  #   - Page n: section/page-n.md
