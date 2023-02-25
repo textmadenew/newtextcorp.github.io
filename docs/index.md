@@ -1,1 +1,1 @@
-# AI Prose in the World's New Text `Corpus`
+# AI Prose in the New Text Corpus
